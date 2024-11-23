@@ -15,7 +15,7 @@ I'm a passionate **cybersecurity enthusiast** and aspiring **penetration tester*
 
 ### 💡 What I'm Working On
 
-- 💼 Enhancing my skills in **bug bounty hunting**  **Penetration testing projects**.  
+- 💼 Enhancing my skills in **bug bounty hunting** and **Penetration testing projects**.  
 - 🔨 Building tools to automate common security tasks and improve testing workflows.  
 - 📘 Studying advanced concepts in **web application and Network security** to expand my expertise.
 
